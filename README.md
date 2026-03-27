@@ -20,6 +20,7 @@ SQL (PostgreSQL / MySQL / SQL Server)
 Power BI (Dashboard creation)
 Jupyter Notebook (Analysis & EDA)
 Gamma (Presentation/PPT creation)
+
 ⚙️ Project Steps
 1. Data Loading
 Loaded dataset using Pandas
